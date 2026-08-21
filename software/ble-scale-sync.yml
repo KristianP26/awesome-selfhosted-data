@@ -1,0 +1,12 @@
+name: BLE Scale Sync
+website_url: https://blescalesync.dev
+source_code_url: https://github.com/KristianP26/ble-scale-sync
+description: Reads weight and body composition from 25+ Bluetooth smart scales and exports readings to MQTT with Home Assistant auto-discovery, InfluxDB, Garmin Connect, Strava, webhooks, ntfy and local CSV/JSONL files.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Internet of Things (IoT)
+  - Health and Fitness
